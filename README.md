@@ -10,11 +10,6 @@ https://tela-de-login-react-iota.vercel.app/
 ```bash
 npm install
 ```
-* Para simular uma API REST, foi utilizado a biblioteca <b>json-server</b>. Então, inicie o comando:
-```bash
-npm run backend
-```
-
 * Iniciar a aplicação
 ```bash
 npm start
